@@ -1,4 +1,4 @@
-Hey👋 there, I'm Dev Kumar Singh
+<h2>Hey👋 there, I'm Dev Kumar Singh</h2>
 
 💻 B.Tech CSE Student
 🚀 Learning • Building • Improving
@@ -17,7 +17,6 @@ CodeForces - https://codeforces.com/profile/NightOwl_Syntax
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
